@@ -1,5 +1,7 @@
 # SaaS FP&A Financial Model
 
+[![CI](https://github.com/rxj0102/saas-fpa-financial-model/actions/workflows/ci.yml/badge.svg)](https://github.com/rxj0102/saas-fpa-financial-model/actions/workflows/ci.yml)
+
 A from-scratch FP&A toolkit for a hypothetical early-stage SaaS company:
 synthetic operating data, a linked three-statement model, core SaaS KPIs, a
 bottoms-up annual budget, budget-vs-actual variance analysis, and a rolling
